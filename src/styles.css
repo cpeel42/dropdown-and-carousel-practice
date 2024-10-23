@@ -34,3 +34,8 @@ h5,
 h6 {
   text-wrap: balance;
 }
+
+.dropdown {
+  width: min-content;
+  background-color: lightcyan;
+}
